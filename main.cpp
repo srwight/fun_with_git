@@ -6,7 +6,7 @@ int main(int argc, char* argv[]){
         std::cout << argv[1] << std::endl;
     }
     else{
-        std::cout << "world!" << std::endl;
+        std::cout << "world" << std::endl;
     }
     return 0;
 }
